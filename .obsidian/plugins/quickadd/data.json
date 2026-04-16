@@ -2,13 +2,13 @@
   "choices": [
     {
       "id": "0112cf22-cfa5-4c7b-9ab5-73598f94897c",
-      "name": "QuickNote",
+      "name": "QuickNote Template",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "Untitled.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "Quicknote"
       },
       "folder": {
         "enabled": false,
@@ -26,6 +26,54 @@
         "focus": true
       },
       "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "3d6e8fe4-6a8e-43cb-8268-37e0af43b217",
+      "name": "QuickNote",
+      "type": "Capture",
+      "command": true,
+      "captureToActiveFile": false,
+      "captureTo": "Quick Notes",
+      "captureToCanvasNodeId": "",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "activeFileWritePosition": "cursor",
+      "task": false,
+      "prepend": true,
+      "format": {
+        "enabled": true,
+        "format": "- {{DATE:YYYY-MM-DD HH:mm}}: {{VALUE}}"
+      },
+      "appendLink": false,
+      "templater": {
+        "afterCapture": "none"
+      },
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
       "setFileExistsBehavior": false
     }
   ],
