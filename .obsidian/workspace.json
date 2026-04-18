@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes.md",
+                "file": "Games I'm thinking of playing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Notes"
+              "title": "Games I'm thinking of playing"
             }
           }
         ]
@@ -181,12 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ffbfbbf7d6fba2d",
+  "active": "66073f6328464535",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2026-04-18.md",
+    "Games I'm thinking of playing.md",
+    "Quick Notes.md",
     "Pasted image 20260416193713.png",
     "Pasted image 20260416193728.png",
-    "Quick Notes.md",
     "Quicknote2.md",
     "Quicknote1.md",
     "Quicknote.md",
