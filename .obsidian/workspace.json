@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Neon Plaza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Neon Plaza"
             }
           },
           {
@@ -181,12 +182,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ffbfbbf7d6fba2d",
+  "active": "66073f6328464535",
   "lastOpenFiles": [
-    "Welcome.md",
-    "App Ideas.md",
     "Quick Notes.md",
     "Neon Plaza.md",
+    "Welcome.md",
+    "App Ideas.md",
     "Games I'm thinking of playing.md",
     "2026-04-18.md",
     "Obsidian-GeneralNotes",
