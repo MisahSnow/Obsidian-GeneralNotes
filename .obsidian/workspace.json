@@ -11,10 +11,14 @@
             "id": "66073f6328464535",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Neon Plaza.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Neon Plaza"
             }
           }
         ]
@@ -177,8 +181,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "66073f6328464535",
+  "active": "6ffbfbbf7d6fba2d",
   "lastOpenFiles": [
+    "Welcome.md",
+    "App Ideas.md",
     "Quick Notes.md",
     "Neon Plaza.md",
     "Games I'm thinking of playing.md",
