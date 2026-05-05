@@ -172,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,10 +183,12 @@
   },
   "active": "66073f6328464535",
   "lastOpenFiles": [
+    "Learning JavaScript/Lesson Bookmark.md",
+    "Quick Notes.md",
+    "Learning JavaScript",
     "2026-05-01.md",
     "Untitled.sync-conflict-20260501-105738-HMRWV7H.md",
     "Untitled.md",
-    "Quick Notes.md",
     "App Ideas.md",
     "2026-04-18.md",
     "Neon Plaza.md",
