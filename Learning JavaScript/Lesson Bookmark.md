@@ -1,3 +1,3 @@
 Lecture 24: The conditional
 
-Assignment Page 7
+Coding challenge 3
