@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes.md",
+                "file": "Learning JavaScript/Lesson Bookmark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Notes"
+              "title": "Lesson Bookmark"
             }
           }
         ],
@@ -199,12 +199,12 @@
   },
   "active": "3c5da6b4945daf90",
   "lastOpenFiles": [
-    "2026-05-01.md",
     "Quick Notes.md",
+    "Games I'm thinking of playing.md",
+    "2026-05-01.md",
+    "App Ideas.md",
     "Untitled.md",
     "Untitled.sync-conflict-20260501-105738-HMRWV7H.md",
-    "Games I'm thinking of playing.md",
-    "App Ideas.md",
     "Welcome.md",
     "Neon Plaza.md",
     "2026-04-18.md",
