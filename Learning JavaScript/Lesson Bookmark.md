@@ -1,3 +1,3 @@
-Lecture 24: The conditional
+Java Fundamentals 2 Lecture 6: Functions calling other functions
 
-Coding challenge 3
+Java Fundamentals 2 Coding Challenge 2
