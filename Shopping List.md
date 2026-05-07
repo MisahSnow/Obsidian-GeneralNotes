@@ -2,4 +2,6 @@ Cat food
 Dog food
 Tuna
 Chicken
-Noodles
+~~Noodles~~
+Fries
+~~Coffee~~
