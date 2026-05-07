@@ -1,7 +1,8 @@
 Cat food
 Dog food
-Tuna
-Chicken
+~~Tuna~~
+~~Chicken~~
 ~~Noodles~~
-Fries
+~~Fries~~
 ~~Coffee~~
+~~Cereal~~
