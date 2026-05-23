@@ -2,7 +2,7 @@
 ~~Dog~~ ~~food~~
 ~~Tuna~~
 ~~Chicken~~
-~~Noodles~~
+Noodles
 ~~Fries~~
 ~~Coffee~~
-~~Cereal~~
+Cereal

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping List.md",
+                "file": "Learning JavaScript/Lesson Bookmark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shopping List"
+              "title": "Lesson Bookmark"
             }
           }
         ],
@@ -213,12 +213,12 @@
   },
   "active": "011df27ae556b8cc",
   "lastOpenFiles": [
-    "Learning JavaScript/Lesson Bookmark.md",
-    "Shopping List.md",
-    "Quick Notes.md",
-    "Games I'm thinking of playing.md",
-    "2026-05-01.md",
     "App Ideas.md",
+    "2026-05-01.md",
+    "Games I'm thinking of playing.md",
+    "Quick Notes.md",
+    "Shopping List.md",
+    "Learning JavaScript/Lesson Bookmark.md",
     "Untitled.sync-conflict-20260501-105738-HMRWV7H.md",
     "Welcome.md",
     "Neon Plaza.md",
