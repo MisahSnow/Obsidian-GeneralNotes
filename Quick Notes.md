@@ -17,3 +17,4 @@ Chevereto
 Downtify
 
 set up AzureCast to host 24/7 radio station, and mix for DJing on the station
+immich
