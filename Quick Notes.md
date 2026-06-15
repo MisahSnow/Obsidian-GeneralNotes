@@ -15,9 +15,12 @@ iriun webcam for linux
 Bitwarden
 Chevereto
 Downtify
+Invidious
 
 set up AzureCast to host 24/7 radio station, and mix for DJing on the station
 immich
 
 
 /mnt/external/storage
+
+https://github.com/Ravencentric/awesome-arr
