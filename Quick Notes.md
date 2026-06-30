@@ -23,4 +23,6 @@ immich
 
 /mnt/external/storage
 
+VacumeTube
+
 https://github.com/Ravencentric/awesome-arr
