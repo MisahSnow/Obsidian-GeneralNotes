@@ -26,3 +26,5 @@ immich
 VacumeTube
 
 https://github.com/Ravencentric/awesome-arr
+
+Watch project hail merry
