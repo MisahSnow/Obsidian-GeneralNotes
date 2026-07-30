@@ -1,5 +1,3 @@
- 
-- 2026-04-18 00:56: chad mandolorian 26nd april
 - 2026-04-19 20:01: 5068696155 marie eve
 
 UO OUTLANDS
@@ -14,7 +12,6 @@ iriun webcam for linux
 
 Bitwarden
 Chevereto
-Downtify
 Invidious
 
 set up AzureCast to host 24/7 radio station, and mix for DJing on the station
@@ -28,3 +25,9 @@ VacumeTube
 https://github.com/Ravencentric/awesome-arr
 
 Watch project hail merry
+
+PLAY WARFRAAAME
+
+10th November 7:30
+
+Try shift at midnight game
