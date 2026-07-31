@@ -31,3 +31,6 @@ PLAY WARFRAAAME
 10th November 7:30
 
 Try shift at midnight game
+Check out game seed
+
+Create makeshift pontoon with water barrels and tarp hanging off posts for a roof
