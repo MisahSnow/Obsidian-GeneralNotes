@@ -36,3 +36,4 @@ Check out game seed
 Create makeshift pontoon with water barrels and tarp hanging off posts for a roof
 
 Try niri wm again
+ 1895
