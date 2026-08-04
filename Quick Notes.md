@@ -15,7 +15,6 @@ Chevereto
 Invidious
 
 set up AzureCast to host 24/7 radio station, and mix for DJing on the station
-immich
 
 
 /mnt/external/storage
@@ -30,10 +29,10 @@ PLAY WARFRAAAME
 
 10th November 7:30
 
-Try shift at midnight game
 Check out game seed
 
 Create makeshift pontoon with water barrels and tarp hanging off posts for a roof
 
 Try niri wm again
  1895
+Watch ltt degoogle video
