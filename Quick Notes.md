@@ -36,3 +36,9 @@ Create makeshift pontoon with water barrels and tarp hanging off posts for a roo
 Try niri wm again
  1895
 Watch ltt degoogle video
+
+Install ULTRA+ for Halo: Campaign Evolved
+
+Learn Linux CLI tool commands
+
+2350$
