@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Ideas.md",
+                "file": "Quick Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Ideas"
+              "title": "Quick Notes"
             }
           }
         ],
@@ -229,8 +229,8 @@
   },
   "active": "6f86bfa4ebefe9c6",
   "lastOpenFiles": [
-    "Quick Notes.md",
     "Game Ideas.md",
+    "Quick Notes.md",
     "App Ideas.md",
     "Games I'm thinking of playing.md",
     "Linux Terminal Notes.md",

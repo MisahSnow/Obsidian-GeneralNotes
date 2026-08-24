@@ -9,17 +9,7 @@ iriun webcam for linux
 
 1.11.221.0.0
 
-
-Bitwarden
-Chevereto
-Invidious
-
-set up AzureCast to host 24/7 radio station, and mix for DJing on the station
-
-
 /mnt/external/storage
-
-VacumeTube
 
 https://github.com/Ravencentric/awesome-arr
 
@@ -33,12 +23,14 @@ Check out game seed
 
 Create makeshift pontoon with water barrels and tarp hanging off posts for a roof
 
-Try niri wm again
  1895
-Watch ltt degoogle video
 
 Install ULTRA+ for Halo: Campaign Evolved
 
 Learn Linux CLI tool commands
 
 2350$
+
+Create task app that integrates into Linux
+
+MAKE SOMETHING IN BLENDER!!!
