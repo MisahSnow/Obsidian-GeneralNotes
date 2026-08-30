@@ -29,7 +29,7 @@ Install ULTRA+ for Halo: Campaign Evolved
 
 Learn Linux CLI tool commands
 
-2350$
+2800$
 
 Create task app that integrates into Linux
 
