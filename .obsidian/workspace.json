@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes.md",
+                "file": "🎮 Xbox 360 Games to Play.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Notes"
+              "title": "🎮 Xbox 360 Games to Play"
             }
           }
         ],
@@ -201,11 +201,11 @@
   },
   "active": "b70939970bb5d8ea",
   "lastOpenFiles": [
+    "Quick Notes.md",
     "Games I'm thinking of playing.md",
     "Game Ideas.md",
     "Shopping List.md",
     "Learning JavaScript/Lesson Bookmark.md",
-    "Quick Notes.md",
     "SL.md",
     "Linux Terminal Notes.md",
     "2026-05-01.md",

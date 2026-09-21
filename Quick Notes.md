@@ -34,3 +34,23 @@ Learn Linux CLI tool commands
 Create task app that integrates into Linux
 
 MAKE SOMETHING IN BLENDER!!!
+
+Xbox manager free download manager
+
+Check out console crate Xbox 360
+
+Mortal kombat both, soul calibur, witcher 3
+
+360 fight night round 3, earth defence force, injustice gods among us, ultimate alliance, army of 2, battlefield bad company
+
+Original Xbox dead or alive 3
+
+Set up auto DNS Xbox 
+
+Look up exclamatory words for Salem
+
+Cats born September 15
+
+Lolipop chainsaw remaster
+
+https://github.com/StonedModder/Aurora-Coverflow-Layouts
