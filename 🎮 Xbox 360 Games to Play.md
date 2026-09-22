@@ -2,8 +2,8 @@
 
 ## Action / Shooters / Adventure
 
-- [ ] The Saboteur
-- [ ] Singularity
+- [x] The Saboteur
+- [x] Singularity
 - [ ] The Darkness
 - [ ] Condemned: Criminal Origins
 - [ ] Binary Domain
