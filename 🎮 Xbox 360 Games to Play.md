@@ -4,8 +4,8 @@
 
 - [x] The Saboteur
 - [x] Singularity
-- [ ] The Darkness
-- [ ] Condemned: Criminal Origins
+- [x] The Darkness
+- [x] Condemned: Criminal Origins
 - [ ] Binary Domain
 - [ ] Enslaved: Odyssey to the West
 - [ ] Alpha Protocol
