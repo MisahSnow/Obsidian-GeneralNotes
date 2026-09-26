@@ -2,6 +2,7 @@
 
 ## Action / Shooters / Adventure
 - [ ] Dark Messiah of Might and Magic: Elements
+- [ ] Farcry Predator: Instincts
 - [x] The Saboteur
 - [x] Singularity
 - [x] The Darkness
