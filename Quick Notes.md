@@ -55,4 +55,4 @@ Lolipop chainsaw remaster
 
 https://github.com/StonedModder/Aurora-Coverflow-Layouts
 
-Get Codex to improve Lutris Gamepad UI, add a setting that makes it always open on a specific monitor, and to open anything on t
+Get Codex to improve Lutris Gamepad UI, add a setting that makes it always opens on a specific monitor, and make sure anything opened with it launches on it's dedicated monitor, ensuring it works on Niri, and when anything is focused with the app menu it should be brought onto it's dedicated display in true fullscreen
