@@ -54,3 +54,5 @@ Cats born September 15
 Lolipop chainsaw remaster
 
 https://github.com/StonedModder/Aurora-Coverflow-Layouts
+
+Get Codex to improve Lutris Gamepad UI, add a setting that makes it always open on a specific monitor, and to open anything on t
