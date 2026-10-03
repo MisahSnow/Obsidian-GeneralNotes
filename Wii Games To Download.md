@@ -1,0 +1,43 @@
+# Wii Games Checklist
+
+- [x] Super Mario Galaxy
+- [x] Super Mario Galaxy 2
+- [x] The Legend of Zelda: Twilight Princess
+- [ ] The Legend of Zelda: Skyward Sword
+- [ ] Metroid Prime Trilogy
+- [ ] Super Smash Bros. Brawl
+- [ ] Mario Kart Wii
+- [ ] Donkey Kong Country Returns
+- [ ] Kirby's Return to Dream Land
+- [ ] Kirby's Epic Yarn
+- [ ] New Super Mario Bros. Wii
+- [ ] Xenoblade Chronicles
+- [ ] The Last Story
+- [ ] Pandora's Tower
+- [ ] Fire Emblem: Radiant Dawn
+- [ ] Punch-Out!!
+- [ ] Sin & Punishment: Star Successor
+- [ ] Resident Evil 4: Wii Edition
+- [ ] Resident Evil: The Umbrella Chronicles
+- [ ] Resident Evil: The Darkside Chronicles
+- [ ] The House of the Dead: Overkill
+- [ ] Dead Space: Extraction
+- [ ] No More Heroes
+- [ ] No More Heroes 2: Desperate Struggle
+- [ ] MadWorld
+- [ ] Red Steel 2
+- [ ] Muramasa: The Demon Blade
+- [ ] A Boy and His Blob
+- [ ] Wario Land: Shake It!
+- [ ] Excite Truck
+- [ ] Excitebots: Trick Racing
+- [ ] Sonic Colors
+- [ ] Sonic and the Black Knight
+- [ ] Tatsunoko vs. Capcom: Ultimate All-Stars
+- [ ] Wii Sports Resort
+- [ ] WarioWare: Smooth Moves
+- [ ] Rhythm Heaven Fever
+- [ ] Trauma Center: Second Opinion
+- [ ] Trauma Center: New Blood
+- [ ] Little King's Story
+- [ ] Fragile Dreams: Farewell Ruins of the Moon
