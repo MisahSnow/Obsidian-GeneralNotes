@@ -3,8 +3,8 @@
 - [x] Super Mario Galaxy
 - [x] Super Mario Galaxy 2
 - [x] The Legend of Zelda: Twilight Princess
-- [ ] The Legend of Zelda: Skyward Sword
-- [ ] Metroid Prime Trilogy
+- [x] The Legend of Zelda: Skyward Sword
+- [x] Metroid Prime Trilogy
 - [ ] Super Smash Bros. Brawl
 - [ ] Mario Kart Wii
 - [ ] Donkey Kong Country Returns
@@ -22,7 +22,7 @@
 - [ ] Resident Evil: The Darkside Chronicles
 - [ ] The House of the Dead: Overkill
 - [ ] Dead Space: Extraction
-- [ ] No More Heroes
+- [x] No More Heroes
 - [ ] No More Heroes 2: Desperate Struggle
 - [ ] MadWorld
 - [ ] Red Steel 2
